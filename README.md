@@ -1,7 +1,7 @@
 <!-- Extreme Vibrant GitHub Profile README for Chandankumarar -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70030&width=435&lines=Hi!+I'm+Chandan+Kumar+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%94%A5;Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70030&width=435&lines=Hi!+I'm+Chandan+Kumar+%F0%9F%91%8B;Tech+Enthusiast+%F0%9F%94%A5;Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
