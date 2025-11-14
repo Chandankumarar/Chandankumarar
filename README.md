@@ -1,7 +1,7 @@
 <!-- Extreme Vibrant GitHub Profile README for Chandankumarar -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70030&width=435&lines=Hi!+I'm+Chandan+Kumar+%F0%9F%91%8B;Tech+Enthusiast+%F0%9F%94%A5;Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70030&width=435&lines=Hi!+I'm+Chandan+Kumar A R+%F0%9F%91%8B;Tech+Enthusiast+%F0%9F%94%A5;Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
@@ -9,8 +9,9 @@
 ## 🚀 About Me
 
 ```yaml
-name: Chandan Kumar
-location: India
+name: Chandan Kumar A R
+studying: prefinal year engneering
+location: Banglore ,India
 skills: Java, SQL, React, HTML, CSS, JavaScript, TailwindCSS, C, Python
 fun_fact: "I can debug faster than you can say 'Stack Overflow!' 😎"
 ```
@@ -35,7 +36,7 @@ fun_fact: "I can debug faster than you can say 'Stack Overflow!' 😎"
 </div>
 
 ---
-## 🛠️ Tech Stack 🧠 Problem Solving & Competitive Coding
+##  🧠 Problem Solving & Competitive Coding
 
 - 💡 Strong foundation in data structures and algorithms
 - 🧩 Regular practice on LeetCode, focusing on:
