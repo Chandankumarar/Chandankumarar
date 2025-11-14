@@ -31,17 +31,28 @@ fun_fact: "I can debug faster than you can say 'Stack Overflow!' 😎"
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  
 </div>
+---
+## 🧠 Problem Solving & Competitive Coding
+
+- 💡 Strong foundation in data structures and algorithms
+- 🧩 Regular practice on LeetCode, focusing on:
+  - Arrays, Strings, HashMaps, Recursion, Dynamic Programming
+  - Backend-relevant problems (e.g., SQL joins, API logic)
+- 🏅 Passionate about streaks, badges, and gamified learning
+
+📈 Check out my LeetCode profile: [Chandan Kumar on LeetCode](https://leetcode.com/u/nuser7584kC/)
 
 ---
 
 ## 🌈 Featured Projects
 
-| Project | Description | Link |
-|---|---|---|
-| 🏪 Stock Flow Hub | Inventory management & analytics platform | [View Repo](https://github.com/Chandankumarar/stock-flow-hub-45) |
-| 🌐 Web Development Projects | Collection of web apps & experiments | [View Repo](https://github.com/Chandankumarar/webdevlopment_projects) |
-| 🚀 Project Demo | Showcase & demos | [View Repo](https://github.com/Chandankumarar/project-demo) |
+| Project                     | Description                           | Link                                                                  |
+| --------------------------- | ------------------------------------- | --------------------------------------------------------------------- |
+| 🏪 stock trading system     | Stock management & analytics platform | [View Repo](https://github.com/Chandankumarar/stocktrading.git)       |
+| 🌐 Web Development Projects | Collection of web apps & experiments  | [View Repo](https://github.com/Chandankumarar/webdevlopment_projects) |
+| 🚀 Project Demo             | Showcase & demos                      | [View Repo](https://github.com/Chandankumarar/project-demo)           |
 
 ---
 
@@ -59,7 +70,7 @@ fun_fact: "I can debug faster than you can say 'Stack Overflow!' 😎"
 ## 📃 Achievements & Certifications
 
 - Add your professional certifications here!  
-  *(e.g., Oracle Java Certified, AWS Cloud Practitioner, etc.)*
+  _(e.g., Oracle Java Certified, AWS Cloud Practitioner, etc.)_
 
 ---
 
@@ -76,7 +87,7 @@ fun_fact: "I can debug faster than you can say 'Stack Overflow!' 😎"
 - 📝 [Blog](#)
 - 💼 [LinkedIn](#)
 - 🐦 [Twitter](#)
-- 📧 Email: chandankumarar@example.com *(change to your email)*
+- 📧 Email: chandankumarar@example.com _(change to your email)_
 
 ---
 
@@ -86,4 +97,4 @@ fun_fact: "I can debug faster than you can say 'Stack Overflow!' 😎"
 
 ---
 
-*Made with ❤️ by Chandan Kumar | [Extreme README powered by Copilot]*
+_Made with ❤️ by Chandan Kumar A R| [Extreme README powered by Copilot]_
