@@ -33,8 +33,9 @@ fun_fact: "I can debug faster than you can say 'Stack Overflow!' 😎"
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   
 </div>
+
 ---
-## 🧠 Problem Solving & Competitive Coding
+## 🛠️ Tech Stack 🧠 Problem Solving & Competitive Coding
 
 - 💡 Strong foundation in data structures and algorithms
 - 🧩 Regular practice on LeetCode, focusing on:
