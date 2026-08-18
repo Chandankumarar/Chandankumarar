@@ -10,7 +10,7 @@
 
 ```yaml
 name: Chandan Kumar A R
-studying: prefinal year engneering
+studying: final year engneering
 location: Banglore ,India
 skills: Java, SQL, React, HTML, CSS, JavaScript, TailwindCSS, C, Python
 fun_fact: "I can debug faster than you can say 'Stack Overflow!' 😎"
